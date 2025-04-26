@@ -18,6 +18,8 @@ const SignUp = () => {
     } finally {
       setIsLoading(false);
     }
+
+    
   };
 
   return (
